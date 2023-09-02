@@ -5,5 +5,4 @@ In this repository, I will be sharing a variety of common algorithms that are es
 
 Resources and Sources:
 
-
-boot.dev
+https://www.boot.dev/
