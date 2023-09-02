@@ -1,8 +1,9 @@
-# WHAT IS AN ALGORITHM?
-An algorithm is a fancy word that essentially means "good instructions". or you could frame it out to say it the step by instrustions given to a computer telling it to do something you want it to do.
+# What Is an Algorithm?
+An algorithm is essentially a set of `well-defined instructions.` Think of it as a recipe for a computer, telling it precisely what to do to achieve a particular task or goal.
 
-Now in this repo I will be sharing alot of common Alogrithms a Backend Developerneed to Know 
+In this repository, I will be sharing a variety of common algorithms that are essential for Backend Developers to understand and utilize.
 
-Resources and Source 
+Resources and Sources:
 
-https://www.boot.dev/
+
+boot.dev
